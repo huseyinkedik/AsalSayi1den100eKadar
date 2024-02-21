@@ -13,7 +13,7 @@ public class Main {
                 }
             }
             if (kosul) {
-                System.out.println(a + "Asal sayıdır");
+                System.out.println(a + " Asal sayıdır");
             }
         }
     }
